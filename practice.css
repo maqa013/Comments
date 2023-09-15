@@ -1,0 +1,39 @@
+.main{
+    width: 85%;
+margin: 0 auto;
+
+}
+body{
+background-color: rgb(77, 77, 77);
+}
+
+.coment-block1{
+
+    padding: 10px;
+    border: 2px solid  black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+background-color: white;
+font-family: sans-serif;
+
+}
+
+
+form{
+    width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+form input,
+form textarea{
+    width: 90%;
+    padding: 10px;
+    resize: vertical;
+  
+}
